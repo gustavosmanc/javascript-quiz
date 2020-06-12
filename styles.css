@@ -1,0 +1,29 @@
+body {
+  background: #222;
+}
+
+.intro {
+  background: #222;
+}
+
+.result {
+  background: #383838 !important;
+}
+
+.bg-primary {
+  background: #ce8523 !important;
+}
+
+.text-primary {
+  color: #ce8523 !important;
+}
+
+.custom-control-input:checked ~ .custom-control-label::before {
+  color: #fff !important;
+  border-color: #e6c291 !important;
+  background-color: #e6c291 !important;
+}
+
+.btn-light {
+  color: #ce8523 !important;
+}
